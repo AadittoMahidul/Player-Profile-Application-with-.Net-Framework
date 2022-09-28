@@ -1,0 +1,148 @@
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\App.xbf
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\MainPage.xbf
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\PlayerDetails.xbf
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\Player.xr.xml
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\Player.exe
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\Player.pdb
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\resources.pri
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\AppxManifest.xml
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\Core\AppxManifest.xml
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\Core\Player.exe
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\Player.build.appxrecipe
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\System.Runtime.dll
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\Player.csproj.AssemblyReference.cache
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\App.g.i.cs
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\App.g.cs
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\MainPage.g.i.cs
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\MainPage.g.cs
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.g.i.cs
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.g.cs
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\XamlTypeInfo.g.cs
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\App.xaml
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\MainPage.xaml
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.xaml
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\App.xbf
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\MainPage.xbf
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.xbf
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\XamlSaveStateFile.xml
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\Player.csproj.CoreCompileInputs.cache
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\Player.exe
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\Player.pdb
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\ResourceHandlingTask.state
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\priconfig.xml
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\priconfig.xml.intermediate
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\unfiltered.layout.resfiles
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\filtered.layout.resfiles
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\filtered.layout.resfiles.intermediate
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\excluded.layout.resfiles
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\excluded.layout.resfiles.intermediate
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\resources.resfiles
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\resources.resfiles.intermediate
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\pri.resfiles
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\pri.resfiles.intermediate
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\qualifiers.txt
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\qualifiers.txt.intermediate
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\ProjectArchitectures.txt
+F:\IDB R50\1268459\Module 03\Project f\FootballPlayer\Player\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424599200000000.json
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\App.xbf
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\MainPage.xbf
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\PlayerDetails.xbf
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\Player.xr.xml
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\Player.exe
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\Player.pdb
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\resources.pri
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\AppxManifest.xml
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\Core\Player.exe
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\Player.build.appxrecipe
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\System.Runtime.dll
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\Player.csproj.AssemblyReference.cache
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\App.g.i.cs
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\App.g.cs
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\MainPage.g.cs
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.g.i.cs
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.g.cs
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\App.xaml
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.xaml
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\MainPage.xaml
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\App.xbf
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.xbf
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\MainPage.xbf
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\Player.exe
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\Player.pdb
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\priconfig.xml
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\resources.resfiles
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\pri.resfiles
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\qualifiers.txt
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\wcs\OneDrive\Desktop\FootballPlayer\Player\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424599200000000.json
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\App.xbf
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\MainPage.xbf
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\PlayerDetails.xbf
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\Player.xr.xml
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\Player.exe
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\Player.pdb
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\resources.pri
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\AppxManifest.xml
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\Core\AppxManifest.xml
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\Core\Player.exe
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\Player.build.appxrecipe
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\System.Runtime.dll
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\Player.csproj.AssemblyReference.cache
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\App.g.i.cs
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\App.g.cs
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\MainPage.g.i.cs
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\MainPage.g.cs
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.g.i.cs
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.g.cs
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\App.xaml
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\MainPage.xaml
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.xaml
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\App.xbf
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\MainPage.xbf
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\PlayerDetails.xbf
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\XamlSaveStateFile.xml
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\Player.csproj.CoreCompileInputs.cache
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\Player.csproj.CopyComplete
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\Player.exe
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\Player.pdb
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\ResourceHandlingTask.state
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\priconfig.xml
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\priconfig.xml.intermediate
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\unfiltered.layout.resfiles
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\filtered.layout.resfiles
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\excluded.layout.resfiles
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\resources.resfiles
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\resources.resfiles.intermediate
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\pri.resfiles
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\pri.resfiles.intermediate
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\qualifiers.txt
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\qualifiers.txt.intermediate
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\ProjectArchitectures.txt
+D:\CS_ACSL-A_50_01\1268459_MD. MAHIDUL MOLLA\FootballPlayer\Player\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424599200000000.json
